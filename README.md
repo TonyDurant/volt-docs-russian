@@ -10,7 +10,7 @@
 
 Ознакомьтесь с некоторыми демонстрационными видео:
 * [Ту-Ду приложение на Вольт](https://www.youtube.com/watch?v=Tg-EtRnMz7o);
-* [Постраничная нумирация](https://www.youtube.com/watch?v=1uanfzMLP9g);
+* [Постраничная нумерация](https://www.youtube.com/watch?v=1uanfzMLP9g);
 * [Блог на Вольте](https://www.youtube.com/watch?v=c478sMlhx1o) ** Внимание: Обновленная версия видео ожидается.
 
 Список демонстрационными приложениями:
