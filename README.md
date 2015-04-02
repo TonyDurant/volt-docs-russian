@@ -11,10 +11,10 @@
 Ознакомьтесь с некоторыми демонстрационными видео:
 * [Ту-Ду приложение на Вольт](https://www.youtube.com/watch?v=Tg-EtRnMz7o);
 * [Постраничная нумерация](https://www.youtube.com/watch?v=1uanfzMLP9g);
+* [Роуты и Темплейты](https://www.youtube.com/watch?v=1yNMP3XR6jU);
+* [Изоморфная разработка приложений — РубиКонф2014](https://www.youtube.com/watch?v=7i6AL7Walc4);
 * [Блог на Вольте](https://www.youtube.com/watch?v=c478sMlhx1o) ** Внимание: Обновленная версия видео ожидается.
 
 Список демонстрационными приложениями:
 * https://github.com/voltrb/todos3
 * https://github.com/voltrb/contactsdemo
-
-Проверка пуша!
